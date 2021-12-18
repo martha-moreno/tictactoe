@@ -14,7 +14,8 @@
 
 ## Built With
 >- Create React App
->- Bootstrap
+>- Bootstrap 5
+>- CSS
 
 ## Future Updates
 > Change game-board color depending on the player

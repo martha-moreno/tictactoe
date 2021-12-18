@@ -1,0 +1,46 @@
+body{
+    background:black;
+}
+  
+  .game-board{
+    display:grid;
+    max-width: 400px;
+    margin: 150px auto;
+  }
+
+  .title{
+      color: #4760E9;
+      margin-left:50px;
+      font-size:50px;
+  }
+  .btn{
+    background: coral;
+    border: 2px solid #999;
+    float: left;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 0;
+    text-align: center;
+    width: 80px;
+    line-height: 80px;
+    height: 80px;
+    display: inline-block;
+    margin: 10px;
+    border: 2px solid gray;  
+    cursor:pointer;
+   }    
+
+.btn:hover{
+    background: gray;
+ }   
+
+.board-info{
+    color: #11CDDE;
+    margin-top:50px;
+}
+   
+
+  
+   
+   
+   

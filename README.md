@@ -18,10 +18,11 @@
 >- CSS
 
 ## Future Updates
-> Change game-board color depending on the player
-> Only show winner when there is a winner
-> De-activate board when there is a winner
-> Add a button to allow the player to continue to play and display score of games won per player
+>- Change game-board color depending on the player
+>- Only show winner status when there is a winner
+>- De-activate board when there is a winner
+>- Display a GameOver alert when there is no winner
+>- Add a button to allow the player to continue to play and display score of games won per player
 
 
 ## Links
